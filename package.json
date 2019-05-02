@@ -1,0 +1,15 @@
+{
+  "name": "project-react-express",
+  "version": "1.0.0",
+  "description": "Project React Express",
+  "main": "index.js",
+  "repository": "https://github.com/nchristanto/project-react-express",
+  "author": "Chris",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
